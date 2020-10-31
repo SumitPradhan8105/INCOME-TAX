@@ -15,7 +15,7 @@ def butter():
 
 root = Tk()
 root.configure(background="blue4")
-root.title("Inome Tax Calculator")
+root.title("Income Tax Calculator")
 root.resizable(1,0)
 root.columnconfigure(0,weight=1)
 root.columnconfigure(1,weight=1)
